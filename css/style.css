@@ -570,6 +570,7 @@ header {
 .left_top_block>div:last-child {
     width: 685px;
     background: var(--light-gray);
+    height: 100%;
 }
 
 .news_title {
